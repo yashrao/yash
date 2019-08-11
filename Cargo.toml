@@ -1,0 +1,11 @@
+[package]
+name = "YaSh"
+version = "0.1.0"
+authors = ["yash"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nix = "0.15"
+exec = "0.3.1"
